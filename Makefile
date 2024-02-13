@@ -15,7 +15,7 @@ package-upload: package-deps package-check
 package: package-upload
 
 test-cov:
-	coverage run --source=spectrum -m pytest -v tests && coverage report -m
+	coverage run --source=cul_spectrum -m pytest -v tests && coverage report -m
 
 clean:
 	rm -rf spectrum.egg-info/
