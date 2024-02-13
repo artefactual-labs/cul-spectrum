@@ -10,7 +10,7 @@ Spectrum REST API.
 Clone this repo, change into the cloned directory, and install:
 
 ```bash
-cd spectrum
+cd cul-spectrum
 pip install .
 ```
 
