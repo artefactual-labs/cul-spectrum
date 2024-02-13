@@ -2,4 +2,4 @@
 
 __author__ = """Artefactual Systems, Inc."""
 __email__ = "info@artefactual.com"
-__version__ = "0.1.0"
+__version__ = "1.0.1"
